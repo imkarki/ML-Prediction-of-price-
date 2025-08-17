@@ -1,7 +1,7 @@
 # ML-Prediction-of-vehicle-price
 Prediction of Selling prices of the vehicle using the machine learning 
 
-##About the Project
+#About the Project
 
 
 What data you used
